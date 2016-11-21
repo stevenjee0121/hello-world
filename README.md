@@ -3,4 +3,4 @@ New beginning respository
 
 Hi, everyone!
 
-This is steven.
+This is steven. I'm a new learner.
